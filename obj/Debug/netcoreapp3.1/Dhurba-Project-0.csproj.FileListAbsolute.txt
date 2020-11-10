@@ -1,0 +1,13 @@
+C:\Revature\Dhurba-Project-0\obj\Debug\netcoreapp3.1\Dhurba-Project-0.csprojAssemblyReference.cache
+C:\Revature\Dhurba-Project-0\obj\Debug\netcoreapp3.1\Dhurba-Project-0.AssemblyInfoInputs.cache
+C:\Revature\Dhurba-Project-0\obj\Debug\netcoreapp3.1\Dhurba-Project-0.AssemblyInfo.cs
+C:\Revature\Dhurba-Project-0\obj\Debug\netcoreapp3.1\Dhurba-Project-0.csproj.CoreCompileInputs.cache
+C:\Revature\Dhurba-Project-0\bin\Debug\netcoreapp3.1\Dhurba-Project-0.exe
+C:\Revature\Dhurba-Project-0\bin\Debug\netcoreapp3.1\Dhurba-Project-0.deps.json
+C:\Revature\Dhurba-Project-0\bin\Debug\netcoreapp3.1\Dhurba-Project-0.runtimeconfig.json
+C:\Revature\Dhurba-Project-0\bin\Debug\netcoreapp3.1\Dhurba-Project-0.runtimeconfig.dev.json
+C:\Revature\Dhurba-Project-0\bin\Debug\netcoreapp3.1\Dhurba-Project-0.dll
+C:\Revature\Dhurba-Project-0\bin\Debug\netcoreapp3.1\Dhurba-Project-0.pdb
+C:\Revature\Dhurba-Project-0\obj\Debug\netcoreapp3.1\Dhurba-Project-0.dll
+C:\Revature\Dhurba-Project-0\obj\Debug\netcoreapp3.1\Dhurba-Project-0.pdb
+C:\Revature\Dhurba-Project-0\obj\Debug\netcoreapp3.1\Dhurba-Project-0.genruntimeconfig.cache
